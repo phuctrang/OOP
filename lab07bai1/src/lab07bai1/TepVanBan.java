@@ -48,7 +48,7 @@ public class TepVanBan {
             pw.close();
             
             fip.close();
-            // fileoutstreams k can close.
+          
         } catch (IOException ex) {
             System.out.println("error." + ex);
         }
@@ -56,12 +56,7 @@ public class TepVanBan {
 
     public static void main(String args[]) {
         	taotep();
-        	//docTep();
-        	// sử dụng nextLine() => trả về kết quả một chuỗi
-		
-		// sử dụng next() =>
-		//Trả về kết quả nội dung trước khoảng trắng
-		
+
         
 
     }
