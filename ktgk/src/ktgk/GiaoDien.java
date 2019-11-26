@@ -127,6 +127,10 @@ public class GiaoDien extends Frame implements ActionListener{
 //        sv[ vt ] = sv;
 //		return "";
 //	}
+	public static void main(String args[]){
+		GiaoDien();
+		
+	}
 	
 
 }
